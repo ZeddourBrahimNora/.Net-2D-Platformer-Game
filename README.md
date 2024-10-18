@@ -1,3 +1,3 @@
-# 2D Platformer game - Projet académique
+# 2D Platformer game 
 
-Ce projet est un jeu de plateforme en 2D développé en C# avec Unity. Le joueur contrôle un personnage qui traverse 3 niveaux, affronte des ennemis et surmonte des obstacles divers à chaque niveaux.
+This project is a 2D platform game developed in C# with Unity. The player controls a character who crosses 3 levels, facing enemies and overcoming various obstacles on each level.
